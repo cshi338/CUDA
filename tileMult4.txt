@@ -1,0 +1,95 @@
+Running Comparison for NxN Matrix with N = 2 
+CPU Vector Multiplication took 0.000002 seconds to execute 
+GPU Vector Multiplication took 0.229328 seconds to execute 
+Difference Between Results Matrices: 0.000000 
+
+Running Comparison for NxN Matrix with N = 2 
+CPU Vector Multiplication took 0.000001 seconds to execute 
+GPU Vector Multiplication took 0.000123 seconds to execute 
+Difference Between Results Matrices: 0.000000 
+
+Running Comparison for NxN Matrix with N = 3 
+CPU Vector Multiplication took 0.000000 seconds to execute 
+GPU Vector Multiplication took 0.000126 seconds to execute 
+Difference Between Results Matrices: 0.000000 
+
+Running Comparison for NxN Matrix with N = 5 
+CPU Vector Multiplication took 0.000001 seconds to execute 
+GPU Vector Multiplication took 0.000123 seconds to execute 
+Difference Between Results Matrices: 0.000000 
+
+Running Comparison for NxN Matrix with N = 8 
+CPU Vector Multiplication took 0.000004 seconds to execute 
+GPU Vector Multiplication took 0.000129 seconds to execute 
+Difference Between Results Matrices: 0.000000 
+
+Running Comparison for NxN Matrix with N = 11 
+CPU Vector Multiplication took 0.000005 seconds to execute 
+GPU Vector Multiplication took 0.000124 seconds to execute 
+Difference Between Results Matrices: 0.000000 
+
+Running Comparison for NxN Matrix with N = 17 
+CPU Vector Multiplication took 0.000018 seconds to execute 
+GPU Vector Multiplication took 0.000126 seconds to execute 
+Difference Between Results Matrices: 0.000000 
+
+Running Comparison for NxN Matrix with N = 26 
+CPU Vector Multiplication took 0.000061 seconds to execute 
+GPU Vector Multiplication took 0.000151 seconds to execute 
+Difference Between Results Matrices: 0.000000 
+
+Running Comparison for NxN Matrix with N = 38 
+CPU Vector Multiplication took 0.000202 seconds to execute 
+GPU Vector Multiplication took 0.000140 seconds to execute 
+Difference Between Results Matrices: 0.000000 
+
+Running Comparison for NxN Matrix with N = 58 
+CPU Vector Multiplication took 0.000759 seconds to execute 
+GPU Vector Multiplication took 0.000188 seconds to execute 
+Difference Between Results Matrices: 0.000000 
+
+Running Comparison for NxN Matrix with N = 86 
+CPU Vector Multiplication took 0.002416 seconds to execute 
+GPU Vector Multiplication took 0.000283 seconds to execute 
+Difference Between Results Matrices: 0.000000 
+
+Running Comparison for NxN Matrix with N = 130 
+CPU Vector Multiplication took 0.008030 seconds to execute 
+GPU Vector Multiplication took 0.000428 seconds to execute 
+Difference Between Results Matrices: 0.000000 
+
+Running Comparison for NxN Matrix with N = 195 
+CPU Vector Multiplication took 0.027904 seconds to execute 
+GPU Vector Multiplication took 0.000832 seconds to execute 
+Difference Between Results Matrices: 0.000000 
+
+Running Comparison for NxN Matrix with N = 292 
+CPU Vector Multiplication took 0.089555 seconds to execute 
+GPU Vector Multiplication took 0.002039 seconds to execute 
+Difference Between Results Matrices: 0.000000 
+
+Running Comparison for NxN Matrix with N = 438 
+CPU Vector Multiplication took 0.390057 seconds to execute 
+GPU Vector Multiplication took 0.005632 seconds to execute 
+Difference Between Results Matrices: 0.000000 
+
+Running Comparison for NxN Matrix with N = 657 
+CPU Vector Multiplication took 1.604521 seconds to execute 
+GPU Vector Multiplication took 0.016282 seconds to execute 
+Difference Between Results Matrices: 0.000000 
+
+Running Comparison for NxN Matrix with N = 985 
+CPU Vector Multiplication took 6.768446 seconds to execute 
+GPU Vector Multiplication took 0.050050 seconds to execute 
+Difference Between Results Matrices: 0.000000 
+
+Running Comparison for NxN Matrix with N = 1478 
+CPU Vector Multiplication took 32.919626 seconds to execute 
+GPU Vector Multiplication took 0.160733 seconds to execute 
+Difference Between Results Matrices: 0.000000 
+
+Running Comparison for NxN Matrix with N = 2217 
+CPU Vector Multiplication took 188.543722 seconds to execute 
+GPU Vector Multiplication took 0.379173 seconds to execute 
+Difference Between Results Matrices: 0.000000 
+
