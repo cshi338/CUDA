@@ -1,1 +1,9 @@
 # CUDA
+![alt text](https://github.com/cshi338/CUDA/blob/main/report/ChrisShiProject3Report-1.jpg)
+![alt text](https://github.com/cshi338/CUDA/blob/main/report/ChrisShiProject3Report-2.jpg)
+![alt text](https://github.com/cshi338/CUDA/blob/main/report/ChrisShiProject3Report-3.jpg)
+![alt text](https://github.com/cshi338/CUDA/blob/main/report/ChrisShiProject3Report-4.jpg)
+![alt text](https://github.com/cshi338/CUDA/blob/main/report/ChrisShiProject3Report-5.jpg)
+![alt text](https://github.com/cshi338/CUDA/blob/main/report/ChrisShiProject3Report-6.jpg)
+![alt text](https://github.com/cshi338/CUDA/blob/main/report/ChrisShiProject3Report-7.jpg)
+![alt text](https://github.com/cshi338/CUDA/blob/main/report/ChrisShiProject3Report-8.jpg)
